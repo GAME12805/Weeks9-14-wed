@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: cf76e1d4197a0624a955e0a9914b435f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4078977738920708195
+    second: food mat_0
+  - first:
+      213: -570782272456988909
+    second: food mat_1
+  - first:
+      213: -1533799838564204919
+    second: food mat_2
+  - first:
+      213: -5694133267697708183
+    second: food mat_3
+  - first:
+      213: 6094619544228860831
+    second: food mat_4
+  - first:
+      213: -6365165739107516193
+    second: food mat_5
+  - first:
+      213: -107198447545071484
+    second: food mat_6
+  - first:
+      213: -5881941094208277488
+    second: food mat_7
+  - first:
+      213: -6722220210484143
+    second: food mat_8
+  - first:
+      213: -3964822109054973748
+    second: food mat_9
+  - first:
+      213: 875493348063007249
+    second: food mat_10
+  - first:
+      213: 7855191645391433627
+    second: food mat_11
+  - first:
+      213: 8003924164250162099
+    second: food mat_12
+  - first:
+      213: -262686230955385795
+    second: food mat_13
+  - first:
+      213: 6764253796722577248
+    second: food mat_14
+  - first:
+      213: -2418712729657595153
+    second: food mat_15
+  - first:
+      213: -7059435843009442428
+    second: food mat_16
+  - first:
+      213: 6670410088320865027
+    second: food mat_17
+  - first:
+      213: 8314010512825033256
+    second: food mat_18
+  - first:
+      213: -715402161989581870
+    second: food mat_19
+  - first:
+      213: 6360014915539622227
+    second: food mat_20
+  - first:
+      213: -3289452403834767008
+    second: food mat_21
+  - first:
+      213: -2303864276045381366
+    second: food mat_22
+  - first:
+      213: 7212997995934542499
+    second: food mat_23
+  - first:
+      213: 5536050439497155686
+    second: food mat_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: food mat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b7e89b5f8467c0800000000000000
+      internalID: -4078977738920708195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 640
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176c1e1c8c2418f0800000000000000
+      internalID: -570782272456988909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 639
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e34d95c29d6bae0800000000000000
+      internalID: -1533799838564204919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963d42b36ff5af0b0800000000000000
+      internalID: -5694133267697708183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 650
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f931aee4f20749450800000000000000
+      internalID: 6094619544228860831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd082000c736aa7a0800000000000000
+      internalID: -6365165739107516193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884a957497238ef0800000000000000
+      internalID: -107198447545071484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 479
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01471f91db52f5ea0800000000000000
+      internalID: -5881941094208277488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 478
+        width: 128
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c80442d2e18eff0800000000000000
+      internalID: -6722220210484143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 480
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c9206c4f1af8c0800000000000000
+      internalID: -3964822109054973748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112538ebf80662c00800000000000000
+      internalID: 875493348063007249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 320
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2c22de2f330d60800000000000000
+      internalID: 7855191645391433627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 320
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3db4bee96a31f60800000000000000
+      internalID: 8003924164250162099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 329
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c9484c340ca5cf0800000000000000
+      internalID: -262686230955385795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 141
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f8c345df47fdd50800000000000000
+      internalID: 6764253796722577248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 169
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2b0756910f6ed0800000000000000
+      internalID: -2418712729657595153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 169
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d03c6d088d70e90800000000000000
+      internalID: -7059435843009442428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 158
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3031c8c42ae029c50800000000000000
+      internalID: 6670410088320865027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 158
+        width: 134
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822accb038c416370800000000000000
+      internalID: 8314010512825033256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 159
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3801726816216f0800000000000000
+      internalID: -715402161989581870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359dcee6edf434850800000000000000
+      internalID: 6360014915539622227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069bfdb87748952d0800000000000000
+      internalID: -3289452403834767008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014a97b5a70700e0800000000000000
+      internalID: -2303864276045381366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 123
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa68411677b91460800000000000000
+      internalID: 7212997995934542499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food mat_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6648fd02b8004dc40800000000000000
+      internalID: 5536050439497155686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      food mat_0: -4078977738920708195
+      food mat_1: -570782272456988909
+      food mat_10: 875493348063007249
+      food mat_11: 7855191645391433627
+      food mat_12: 8003924164250162099
+      food mat_13: -262686230955385795
+      food mat_14: 6764253796722577248
+      food mat_15: -2418712729657595153
+      food mat_16: -7059435843009442428
+      food mat_17: 6670410088320865027
+      food mat_18: 8314010512825033256
+      food mat_19: -715402161989581870
+      food mat_2: -1533799838564204919
+      food mat_20: 6360014915539622227
+      food mat_21: -3289452403834767008
+      food mat_22: -2303864276045381366
+      food mat_23: 7212997995934542499
+      food mat_24: 5536050439497155686
+      food mat_3: -5694133267697708183
+      food mat_4: 6094619544228860831
+      food mat_5: -6365165739107516193
+      food mat_6: -107198447545071484
+      food mat_7: -5881941094208277488
+      food mat_8: -6722220210484143
+      food mat_9: -3964822109054973748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
