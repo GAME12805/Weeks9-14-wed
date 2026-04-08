@@ -443,8 +443,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LocalMultiplayerManager
   playerSprites:
   - {fileID: -138209937, guid: 529af4bdebfb57844ac40648c60dbc05, type: 3}
-  - {fileID: 1491619036, guid: 529af4bdebfb57844ac40648c60dbc05, type: 3}
   - {fileID: 11452861, guid: 529af4bdebfb57844ac40648c60dbc05, type: 3}
+  - {fileID: 1491619036, guid: 529af4bdebfb57844ac40648c60dbc05, type: 3}
   players: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
